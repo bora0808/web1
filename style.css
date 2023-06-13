@@ -1,8 +1,9 @@
 body{
     margin:0;
+    background-image: url('white.png');
   }
   a {
-    color:gray;
+    color: orangered;
     font-style: italic;
   }
   h1 {
